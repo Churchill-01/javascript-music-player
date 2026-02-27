@@ -1,7 +1,6 @@
 A browser-based music player built using vanilla JavaScript (ES6+).
 **Features**
 Play and pause functionality
-Forward and rewind controls
 Audio state management
 Event-driven interaction
 Dynamic UI updates
